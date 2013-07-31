@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/home/shum/docs/andr_git_repos/andr_auto_testing/.metadata/.plugins/org.eclipse.jdt.core
+1262393393.index
+1053112047.index
+2540607589.index
+3684819003.index

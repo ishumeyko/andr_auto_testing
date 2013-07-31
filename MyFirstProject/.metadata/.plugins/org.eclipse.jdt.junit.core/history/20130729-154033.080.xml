@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="MyFirstProjectTests" project="MyFirstProjectTest" tests="1" started="1" failures="1" errors="0" ignored="0">
+  <testsuite name="GooAPIv10 [emulator-5554]" time="0.037">
+    <testsuite name="com.shumz.aatg.myfirstproject.test.MyFirstProjectTests" time="0.037">
+      <testcase name="testSomething " classname="com.shumz.aatg.myfirstproject.test.MyFirstProjectTests" time="0.037">
+        <failure>junit.framework.AssertionFailedError: Not implemented yet...&#13;
+at com.shumz.aatg.myfirstproject.test.MyFirstProjectTests.testSomething(MyFirstProjectTests.java:22)&#13;
+at java.lang.reflect.Method.invokeNative(Native Method)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:169)&#13;
+at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:154)&#13;
+at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:529)&#13;
+at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1448)&#13;
+
+</failure>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

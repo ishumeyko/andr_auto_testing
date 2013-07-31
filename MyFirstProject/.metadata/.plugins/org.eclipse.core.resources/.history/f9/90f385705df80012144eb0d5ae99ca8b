@@ -1,0 +1,5 @@
+package com.shumz.aatg.myfirstproject.test;
+
+public @interface VeryImportantTest {
+
+}
